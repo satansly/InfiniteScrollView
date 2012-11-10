@@ -1,7 +1,7 @@
-InfiniteScrollView
+InfiniteScrollView - Android
 ==================
 
-Infinite or Circular scroll view. Allows infinite scrolling in either directions.
+Infinite or Circular scroll view for Android. Allows infinite scrolling in either directions.
 
 To use in your project import the files:
 
